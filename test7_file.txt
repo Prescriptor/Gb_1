@@ -1,0 +1,4 @@
+﻿firma OOO 10000 5000
+firmb ZAO 65000 4000
+firmc PAO 30000 35000
+firmd IP 14000 8000
